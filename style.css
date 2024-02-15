@@ -1,0 +1,79 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+h1
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body
+{
+    background-image: url(—Pngtree—modern\ simple\ elegant\ dark\ blue_1454711.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container{
+    background-color: white;
+    width: 298px;
+    height: 487px;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+}
+.container>form{
+    width: 100%; 
+     display: flex;
+     flex-direction: column;
+     padding: 20%;
+}
+input{
+    background-color: whitesmoke;
+    width: 100%;
+    padding: 2%;
+    margin-bottom: 10px;
+    border-radius: 9px;
+    border-color: black;
+}
+p{
+    margin-top: 10px;
+}
+a{
+    margin-left: 57px;
+    color: #000;
+}
+button
+{
+    width: 100%;
+    padding: 2%;
+    margin-top: 15px;
+    border-radius: 9px;
+    border: none;
+}
+.container1{
+    background-color: white;
+    width: 298px;
+    height: 500px;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+}
+.container1>h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container1>form{
+    width: 100%; 
+     display: flex;
+     flex-direction: column;
+     padding-left: 20%;
+     padding-right: 20%;
+     padding-top: 10%;
+}
